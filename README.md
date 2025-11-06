@@ -1,5 +1,4 @@
 # data-sorter
-# smart-city-route-planner
 This repository includes data structure and algorithms second garded assignment. This very simple applications allows user to generate sample data set and sort them using different sorting algorithms like mereg sort, quick sort and bibble sort. This application wriiten by Java and this is a simple terminal based application. Not a real world application
 
 This group assignment is done by four member group, below our member,
